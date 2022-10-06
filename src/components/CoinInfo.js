@@ -35,7 +35,8 @@ const CoinInfo = ({ coin }) => {
       },
     },
   }));
-  const str = "f";
+
+  const str = "e";
   const classes = useStyles();
 
   const fetchHistoricData = async () => {
